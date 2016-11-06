@@ -1,7 +1,7 @@
 <h1>Лендинг для доставки еды в Оренбурге</h1>
 
 <p>
-	<img src="./img.png" alt="Start HTML Template">
+	<img src="./img.jpg" alt="Start HTML Template">
 </p>
 
 
