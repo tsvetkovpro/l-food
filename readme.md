@@ -1,26 +1,9 @@
-<h1>OptimizedHTML - Start HTML Template</h1>
+<h1>Лендинг для доставки еды в Оренбурге</h1>
 
 <p>
-	<img src="http://agragregra.github.io/github-images/optimized-html-github-poster.jpg" alt="Start HTML Template">
+	<img src="./img.png" alt="Start HTML Template">
 </p>
 
-<p>Author: <a href="http://webdesign-master.ru" target="_blank">WebDesign Master</a> | <a href="http://webdesign-master.ru/blog/tools/2016-08-19-optimizedhtml.html" target="_blank">Manual in Russian</a></p>
-
-<p>OptimizedHTML is all-inclusive, optimized for Google PageSpeed start HTML5 template with Bootstrap (grid only), Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, Imagemin, Vinyl-FTP, Bower (libs path) and Bourbon support. The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
-
-<p>OptimizedHTML Start Template uses the best practices of web development and optimized for Google PageSpeed.</p>
-
-<p>Cross-browser compatibility: IE9+.</p>
-
-<p>The template uses a Sass with <strong>Sass</strong> syntax and project structure with source code in the directory <strong>app/</strong> and production folder <strong>dist/</strong>, that contains ready project with optimized HTML, CSS, JS and images.</p>
-
-<h2>How to use OptimizedHTML</h2>
-
-<ol>
-	<li><a href="https://github.com/agragregra/optimizedhtml-start-template/archive/master.zip">Download</a> <strong>optimizedhtml-start-template</strong> from GitHub;</li>
-	<li>Install Node Modules: <strong>npm i</strong>;</li>
-	<li>Run the template: <strong>gulp</strong>.</li>
-</ol>
 
 <h2>Gulp tasks:</h2>
 
